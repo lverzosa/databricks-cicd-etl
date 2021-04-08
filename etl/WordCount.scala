@@ -1,8 +1,4 @@
 // Databricks notebook source
-// Changes
-
-// COMMAND ----------
-
 // MAGIC %md This takes in a bunch of texts and counts the words - Test
 
 // COMMAND ----------
